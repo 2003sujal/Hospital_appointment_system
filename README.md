@@ -65,4 +65,5 @@ The Hospital Appointment System is a web-based application built with Django, de
 
 The Hospital Appointment System implemented with Django provides a robust solution for managing appointments efficiently in a hospital environment. By following the above steps, you can set up and run the system locally, leveraging Django's capabilities to ensure secure, scalable, and user-friendly operation.
 
-© 2024 Aashutosh Poudel Biswash Devkota Dipendra Thapa Sujan Subedi. All Rights Reserved
+© 2025 Sujal Luitel. All Rights Reserved
+
